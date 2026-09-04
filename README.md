@@ -14,7 +14,7 @@ The objective was to create a simple **text-based Notes Manager** using Java Fil
 
 ## Tools & Technologies
 - **Language:** Java  
-- **IDE:** IntelliJ IDEA / VS Code  
+- **IDE:** IntelliJ IDEA  
 - **Core Concepts:** FileWriter, FileReader, BufferedReader, Scanner, Switch-case, Loops  
 
 ## How It Works
